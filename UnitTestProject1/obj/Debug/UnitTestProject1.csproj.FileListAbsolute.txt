@@ -1,7 +1,0 @@
-c:\users\оксана\documents\visual studio 2013\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-c:\users\оксана\documents\visual studio 2013\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-c:\users\оксана\documents\visual studio 2013\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
-c:\users\оксана\documents\visual studio 2013\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
-c:\users\оксана\documents\visual studio 2013\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
-c:\users\оксана\documents\visual studio 2013\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-c:\users\оксана\documents\visual studio 2013\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
